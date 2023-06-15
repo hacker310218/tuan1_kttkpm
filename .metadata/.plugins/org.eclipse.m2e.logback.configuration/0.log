@@ -1,0 +1,6 @@
+2023-06-15 16:42:20,889 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-06-15 16:42:32,853 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2023-06-15 16:48:57,459 [Worker-29: Creating project "fit"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.4/maven-jar-plugin-2.4.jar
+2023-06-15 16:49:00,643 [Worker-29: Creating project "fit"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: fit:fit:0.0.1-SNAPSHOT @ T:\KT\fit\pom.xml.
+2023-06-15 16:49:00,772 [Worker-29: Creating project "fit"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.4/maven-jar-plugin-2.4.pom
+2023-06-15 16:49:28,289 [Worker-31: Creating project "ActiveMQDemo"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ActiveMQDemo:ActiveMQDemo:0.0.1-SNAPSHOT @ T:\KT\ActiveMQDemo\pom.xml.
